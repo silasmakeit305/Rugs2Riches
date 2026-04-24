@@ -16,9 +16,9 @@ input, select, textarea { font-family: inherit; }
 /* ---------- TOKENS ---------- */
 :root {
   --bg:          #111C15;
-  --bg-subtle:   #0D1710;
+  --bg-subtle:   #111C15;
   --bg-dark:     #070C08;
-  --bg-card:     rgba(255,255,255,0.045);
+  --bg-card:     rgba(255,255,255,0.05);
   --text:        #DFF0E4;
   --text-muted:  rgba(223,240,228,0.48);
   --accent:      #2B5CE6;
@@ -27,7 +27,7 @@ input, select, textarea { font-family: inherit; }
   --green:       #5C9E6A;
   --green-dark:  #477A54;
   --green-light: rgba(92,158,106,0.14);
-  --border:      rgba(255,255,255,0.08);
+  --border:      rgba(0,0,0,0.55);
   --white:       #ffffff;
   --gold:        #f59e0b;
 
